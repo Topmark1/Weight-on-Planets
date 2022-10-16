@@ -1,0 +1,9 @@
+ 
+h1{margin:40px 0px 30px 0px;text-align:center;color:rgb(255, 255, 255)}
+.title{display:flex;justify-content:center;gap:7px;}
+input{height:25px;margin:0px 0px;padding:0px 10px}
+#planetli{height:30px;width:120px;margin:0px 0px;padding:0px 10px}
+button{height:30px;width:120px;margin:0px 0px;padding:2px 10px 2px 0px;background-color:rgba(220, 190, 35, 0.9);color:white;border:none}
+.outer{display:flex;justify-content:center;}
+.out{height:150px;display:flex;justify-content:center;width:700px;margin:60px 0px 0px 0px;background-color:rgba(220, 190, 35, 0.9);border:none}
+.in{height:75px;width:350px;margin:0px 0px 0px 0px;justify-content:center;background-color:rgba(220, 190, 35, 0.9);text-align:center;line-height:70px;font-size:40px;color:black}
